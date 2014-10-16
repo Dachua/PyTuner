@@ -1,0 +1,31 @@
+PyTuner: A Guitar Tuner In Python/Pygame
+------------------------------------------
+Created by: Joshua Smith (jdsmith5896)
+==========================================
+Change-Log Information
+
+VERSION 1.0 (07/02/12):
+======================
+-Basic Buttons
+-4 Tuning Scales
+-Messy Source ;/
+
+VERSION 1.2 (07/12/12):
+======================
+-Advanced Buttons
+-6 Tuning Scales(2 New:"DropC","DAEAEE" )
+-Keyboard Management
+-Program Icon
+-Cleaner GUI
+-Nicer Screenshots (If this even matters :P)
+-Cleaner Source(This needs a bit more work :/)
+-Readme.txt included for help with controls
+
+===========================================
+And as always, thank you for using this 
+program, it really means a lot to me.
+
+Thank you!
+~Josh
+
+
